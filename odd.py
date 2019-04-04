@@ -6,6 +6,4 @@ right_this_minute = datetime.today().minute
 
 for i in range(5):
     if right_this_minute in odds:
-        print("this Minute seems a little odd. ")
-    else:
-        print("Not an odd minute")
+       
